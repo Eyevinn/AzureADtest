@@ -1,0 +1,19 @@
+{
+  "name": "AzureADtest",
+  "version": "1.0.0",
+  "description": "Implementing the recipe at  https://azure.microsoft.com/en-us/documentation/articles/active-directory-devquickstarts-webapi-nodejs/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eyevinn/AzureADtest.git"
+  },
+  "author": "Fredrik Johansson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eyevinn/AzureADtest/issues"
+  },
+  "homepage": "https://github.com/Eyevinn/AzureADtest"
+}
